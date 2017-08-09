@@ -95,7 +95,7 @@ Released   : 20130902
                 </tbody>
             </table>
             <form action="FrontController?action=ExibeCarona" method="post">
-                <input name="id-carona" type="text" />
+                <input name="id-carona" type="text" style="display: none" />
                 <ul style="list-style: none; padding: 0px;">
                     <li style="float: left; margin-right: 10px;">
                         <button type='submit' class='submit-button success'>
